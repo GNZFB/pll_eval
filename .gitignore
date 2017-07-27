@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.smv
+psim/S4 5 SRF PLL different alignment.psimsch
+hls/abc2alphaBeta2dq/vivado_hls.log
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/vivado_hls.app
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/sol_synth.log
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/.cproject
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/.project
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/.settings/abc2alphaBeta2dq_prj.Debug.launch
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/.settings/abc2alphaBeta2dq_prj.Release.launch
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/.autopilot/.autopilot_exit
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/sol_synth.directive
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/.apc/autopilot.apfmapping
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/.autopilot/db/autopilot.flow.log
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/script.tcl
+hls/abc2alphaBeta2dq/abc2alphaBeta2dq_prj/sol_synth/sol_synth.aps
