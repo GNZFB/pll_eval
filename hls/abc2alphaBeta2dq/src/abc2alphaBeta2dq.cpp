@@ -15,11 +15,11 @@ void abc2alphaBeta2dq (sign_typ a, sign_typ b, sign_typ c,
 	*beta = (b-c)*beta_const;
 
 #ifdef DQTRANSF_FLAG_1
+	*d = -*alpha*cosTh - *beta*sinTh;
+	*q = *beta*cosTh - *alpha*sinTh;
+#else
 	*d = *alpha*sinTh - *beta*cosTh;
 	*q = *alpha*cosTh + *beta*sinTh;
-#else
-	*d = alfa*cosTh + beta*sinTh;
-	*q = beta*cosTh - alfa*sinTh;
 #endif
 
 }
